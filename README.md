@@ -2,6 +2,8 @@
 
 A responsive Kanban board for managing tasks across To do, In progress, In review, and Done. It includes guest sign-in, user-scoped Supabase storage with row-level security, task management, and drag-and-drop status changes.
 
+Live app: https://task-board-app-ttran-ten00.vercel.app/
+
 ## Run locally
 
 1. Install Node.js 20.19+ or 22.12+.
