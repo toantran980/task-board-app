@@ -9,6 +9,7 @@ Live app: https://task-board-app-ttran-ten00.vercel.app/
 1. Install Node.js 20.19+ or 22.12+.
 2. Run `npm install`.
 3. Run `npm run dev` and open the local URL printed by Vite.
+4. To check a production build, run `npm run build`.
 
 Without Supabase credentials the app runs in **Local preview** mode and stores tasks in this browser only. To turn on cloud sync:
 
